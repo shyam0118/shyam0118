@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Shyamalendu. I'm a full-stack developer with around 2 years of experience. I enjoy building sites & apps.
+
 <!--
 **shyam0118/shyam0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
